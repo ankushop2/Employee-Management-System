@@ -35,7 +35,7 @@ This repo contains the codebase of the project done during the Deloitte Launchpa
 <p align="center"><img width="80%" src="/Screenshots/AddEmp.JPG" /></p>
 
 --------------------------------------------------------------------------------
-<p align="center"><img width="80%" src="/Screenshots/SearchEmp.JPG" /></p>
+<p align="center"><img width="80%" src="/Screenshots/searchEmp.JPG" /></p>
 
 --------------------------------------------------------------------------------
 <p align="center"><img width="80%" src="/Screenshots/UpdateEmp.JPG" /></p>
